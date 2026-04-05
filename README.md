@@ -100,13 +100,21 @@ SnakeQL-Progressive/
 
 ```
 🚀 How to Use
-main menu, training & try out model
+main menu, training & try out model 
+Linux & macOs:
 ```bash
 
 # make it executable
 chmod +x run.sh
 # run it
 ./run.sh
+
+```
+Windows:
+```text
+
+# duble click .bat
+file: run.bat
 
 ```
     Use the green slider to set ENTRY threshold
