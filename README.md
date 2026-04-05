@@ -106,6 +106,12 @@ Train the model
 python3 trainer.py
 
 ```
+use the model
+```bash
+
+python3 play.py
+
+```
     Use the green slider to set ENTRY threshold
 
     Use the red slider to set CLEANUP threshold
