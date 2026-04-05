@@ -100,16 +100,13 @@ SnakeQL-Progressive/
 
 ```
 🚀 How to Use
-Train the model
+main menu, training & try out model
 ```bash
 
-python3 trainer.py
-
-```
-use the model
-```bash
-
-python3 play.py
+# make it executable
+chmod +x run.sh
+# run it
+./run.sh
 
 ```
     Use the green slider to set ENTRY threshold
